@@ -1,10 +1,10 @@
 -Welcome to my repository.
----My name is Ranieri, it will be nice if these archives can help you with something.
+-My name is Ranieri, it will be nice if these archives can help you with something.
 
 -All files in the repository can be downloaded and enhanced as desired.
----These are just examples that I use in my day-to-day life, to solve atypical issues.
+-These are just examples that I use in my day-to-day life, to solve atypical issues.
 
-IMPORTANT****
+***IMPORTANT****
 -For a better experience, it is necessary that the AUTOHOTKEY application is installed on your computer.
 -To edit the files, you can use any editor of your choice.  I particularly use NOTEPAD++.
 
