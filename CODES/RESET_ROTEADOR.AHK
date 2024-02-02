@@ -20,5 +20,6 @@ Sleep, 1000 ;aguardando comando.
 send, {ENTER} ;CONFIRMANDO REINICIAR
 Sleep, 10000 ;aguardando comando.
 MsgBox, Roteador reiniciado com sucesso! ;Envio de Caixa de texto confirmando o Restart
-;Linha de comando para fechar o Navegador
+Send, {ALTDOWN}{F4}{ALTUP};Linha de comando para fechar o Navegador
+Sleep, 500 ;aguardando comando.
 send, Exit ;Sáida automática do aplicativo.
